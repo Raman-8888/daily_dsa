@@ -67,6 +67,7 @@
 | [0368-largest-divisible-subset](https://github.com/Raman-8888/daily_html/tree/master/0368-largest-divisible-subset) |
 | [0496-next-greater-element-i](https://github.com/Raman-8888/daily_html/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Raman-8888/daily_html/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Raman-8888/daily_html/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Raman-8888/daily_html/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Raman-8888/daily_html/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Raman-8888/daily_html/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -303,6 +304,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raman-8888/daily_html/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/Raman-8888/daily_html/tree/master/0643-maximum-average-subarray-i) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Raman-8888/daily_html/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Simulation
 |  |
