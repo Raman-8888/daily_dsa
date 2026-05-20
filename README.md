@@ -382,6 +382,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Raman-8888/daily_html/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Raman-8888/daily_html/tree/master/0872-leaf-similar-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Raman-8888/daily_html/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Raman-8888/daily_dsa/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -393,11 +394,13 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Raman-8888/daily_html/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/Raman-8888/daily_html/tree/master/0872-leaf-similar-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Raman-8888/daily_html/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Raman-8888/daily_dsa/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Raman-8888/daily_html/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Raman-8888/daily_dsa/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -421,4 +424,5 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Raman-8888/daily_html/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Raman-8888/daily_html/tree/master/0872-leaf-similar-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Raman-8888/daily_html/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Raman-8888/daily_dsa/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
