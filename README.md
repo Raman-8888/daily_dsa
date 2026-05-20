@@ -270,6 +270,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Raman-8888/daily_html/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Raman-8888/daily_html/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raman-8888/daily_html/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Raman-8888/daily_html/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Raman-8888/daily_html/tree/master/0234-palindrome-linked-list) |
@@ -368,6 +369,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Raman-8888/daily_html/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Raman-8888/daily_html/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Raman-8888/daily_html/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -378,6 +380,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Raman-8888/daily_html/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Raman-8888/daily_html/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Raman-8888/daily_html/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -399,6 +402,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Raman-8888/daily_html/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Raman-8888/daily_html/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Raman-8888/daily_html/tree/master/0653-two-sum-iv-input-is-a-bst) |
