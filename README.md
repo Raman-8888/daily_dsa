@@ -375,6 +375,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Raman-8888/daily_dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Raman-8888/daily_html/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Raman-8888/daily_html/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Raman-8888/daily_html/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -389,6 +390,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Raman-8888/daily_dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Raman-8888/daily_html/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Raman-8888/daily_html/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Raman-8888/daily_html/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -399,6 +401,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Raman-8888/daily_dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Raman-8888/daily_html/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Raman-8888/daily_dsa/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Binary Search Tree
@@ -417,6 +420,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Raman-8888/daily_dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Raman-8888/daily_html/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Raman-8888/daily_html/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Raman-8888/daily_html/tree/master/0653-two-sum-iv-input-is-a-bst) |
