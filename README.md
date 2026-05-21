@@ -383,6 +383,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Raman-8888/daily_html/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Raman-8888/daily_html/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Raman-8888/daily_html/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Raman-8888/daily_dsa/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/Raman-8888/daily_html/tree/master/0872-leaf-similar-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Raman-8888/daily_html/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Raman-8888/daily_dsa/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -397,6 +398,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Raman-8888/daily_html/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Raman-8888/daily_html/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Raman-8888/daily_html/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Raman-8888/daily_dsa/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/Raman-8888/daily_html/tree/master/0872-leaf-similar-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Raman-8888/daily_html/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Raman-8888/daily_dsa/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -408,6 +410,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Raman-8888/daily_dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Raman-8888/daily_html/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Raman-8888/daily_dsa/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Raman-8888/daily_dsa/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -417,6 +420,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Raman-8888/daily_html/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Raman-8888/daily_html/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Raman-8888/daily_html/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Raman-8888/daily_dsa/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Raman-8888/daily_html/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -433,6 +437,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Raman-8888/daily_html/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Raman-8888/daily_html/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Raman-8888/daily_html/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Raman-8888/daily_dsa/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/Raman-8888/daily_html/tree/master/0872-leaf-similar-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Raman-8888/daily_html/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Raman-8888/daily_dsa/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
