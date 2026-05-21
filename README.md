@@ -373,6 +373,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Raman-8888/daily_dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -401,6 +402,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Raman-8888/daily_dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Raman-8888/daily_html/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Raman-8888/daily_dsa/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -418,6 +420,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Raman-8888/daily_dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
