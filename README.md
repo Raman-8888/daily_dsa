@@ -48,6 +48,7 @@
 | [0014-longest-common-prefix](https://github.com/Raman-8888/daily_html/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Raman-8888/daily_html/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Raman-8888/daily_html/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Raman-8888/daily_dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/Raman-8888/daily_html/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Raman-8888/daily_html/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Raman-8888/daily_html/tree/master/0046-permutations) |
@@ -291,6 +292,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Raman-8888/daily_html/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Raman-8888/daily_html/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Raman-8888/daily_html/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Raman-8888/daily_dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Raman-8888/daily_html/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Raman-8888/daily_html/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Raman-8888/daily_html/tree/master/0162-find-peak-element) |
