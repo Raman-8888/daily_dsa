@@ -1,23 +1,33 @@
-import java.util.*;
-
 class Solution {
-    public List<List<Integer>> subsetsWithDup(int[] nums) {
-        List<List<Integer>> result = new ArrayList<>();
-        Arrays.sort(nums); // sort to handle duplicates
-        backtrack(nums, 0, new ArrayList<>(), result);
-        return result;
+    public void solve(List<List<Integer>>res,List<Integer>temp,int[]arr,int st)
+    {
+        if(res.contains(temp))
+        {
+            return;
+
+        }
+        res.add(new ArrayList<>(temp));
+
+        for(int i=st;i<arr.length;i++)
+        {
+            temp.add(arr[i]);
+
+            solve(res,temp,arr,i+1);
+
+            temp.remove(temp.size()-1);
+        }
+
     }
 
-    private void backtrack(int[] nums, int start, List<Integer> path, List<List<Integer>> result) {
-        result.add(new ArrayList<>(path));
+    public List<List<Integer>> subsetsWithDup(int[] arr) {
+       
+       List<List<Integer>>res=new ArrayList<>();
+       List<Integer>temp=new ArrayList<>();
+       Arrays.sort(arr);
 
-        for (int i = start; i < nums.length; i++) {
-            // skip duplicates
-            if (i > start && nums[i] == nums[i - 1]) continue;
+       solve(res,temp,arr,0);
 
-            path.add(nums[i]);
-            backtrack(nums, i + 1, path, result);
-            path.remove(path.size() - 1); // backtrack
-        }
+       return res;
+        
     }
 }
