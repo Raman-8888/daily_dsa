@@ -14,24 +14,45 @@
  * }
  */
 class Solution {
-     boolean res=true;
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        inorder(p,q);
-        return res;
-                       
-    }
 
-    public boolean inorder(TreeNode p,TreeNode q)
-    {
+
         if(p==null&&q==null)return true;
-        if(p==null||q==null)
+        if(p==null||q==null)return false;
+
+        Deque<TreeNode>q1=new LinkedList<>();
+        Deque<TreeNode>q2=new LinkedList<>();
+
+        q1.add(p);
+        q2.add(q);
+
+        while(!q1.isEmpty()&&!q2.isEmpty())
         {
-            res=false;
-            return false;
+            TreeNode curr1=q1.poll();
+            TreeNode curr2=q2.poll();
+
+            if(curr1==null&&curr2==null)
+            {
+                continue;
+
+            }
+            if(curr1==null || curr2==null || curr1.val!=curr2.val)
+            {
+                return false;
+
+            }
+
+            
+                q1.add(curr1.left);
+                q2.add(curr2.left);
+            
+            
+                q1.add(curr1.right);
+                q2.add(curr2.right);
+            
         }
-        inorder(p.left,q.left);
-        if(p.val!=q.val)res= false;
-        inorder(p.right,q.right);
-        return res;
+        return true;
+
+        
     }
 }
