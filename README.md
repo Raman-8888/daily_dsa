@@ -77,6 +77,7 @@
 | [0682-baseball-game](https://github.com/Raman-8888/daily_html/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Raman-8888/daily_html/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Raman-8888/daily_html/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Raman-8888/daily_dsa/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0912-sort-an-array](https://github.com/Raman-8888/daily_html/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Raman-8888/daily_html/tree/master/1200-minimum-absolute-difference) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Raman-8888/daily_html/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -304,6 +305,7 @@
 | [0367-valid-perfect-square](https://github.com/Raman-8888/daily_html/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Raman-8888/daily_html/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Raman-8888/daily_html/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Raman-8888/daily_dsa/tree/main/0875-koko-eating-bananas/) | Medium |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Raman-8888/daily_html/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Linked List
 | Problem Name | Difficulty |
