@@ -1,19 +1,14 @@
 class Solution {
     public int climbStairs(int n) {
-        // Cache to store the results of subproblems
-        int[] memo = new int[n + 1];
-        return ans(n, memo);
-    }
+        int dp[]=new int[n+1];
+        dp[0]=1;
+        dp[1]=1;
 
-    private int ans(int n, int[] memo) {
-        // Base cases
-        if (n == 0 || n == 1) return 1;
-        
-        // If already computed, return the cached result
-        if (memo[n] != 0) return memo[n];
+        for(int i=2;i<=n;i++)
+        {
+            dp[i]=dp[i-1]+dp[i-2];
+        }
+        return dp[n];
 
-        // Store the computation in the memo array
-        memo[n] = ans(n - 1, memo) + ans(n - 2, memo);
-        return memo[n];
     }
 }
