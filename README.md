@@ -146,6 +146,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Raman-8888/daily_html/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Raman-8888/daily_html/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/Raman-8888/daily_dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raman-8888/daily_html/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/Raman-8888/daily_html/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/Raman-8888/daily_dsa/tree/main/0509-fibonacci-number/) | Easy |
@@ -231,6 +232,7 @@
 | [0066-plus-one](https://github.com/Raman-8888/daily_html/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Raman-8888/daily_html/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Raman-8888/daily_html/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Raman-8888/daily_dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raman-8888/daily_html/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/Raman-8888/daily_html/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Raman-8888/daily_html/tree/master/0368-largest-divisible-subset) |
@@ -467,5 +469,6 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Raman-8888/daily_dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Raman-8888/daily_dsa/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
