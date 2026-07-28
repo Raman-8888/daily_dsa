@@ -54,6 +54,7 @@
 | [0037-sudoku-solver](https://github.com/Raman-8888/daily_html/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Raman-8888/daily_html/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Raman-8888/daily_html/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Raman-8888/daily_dsa/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Raman-8888/daily_html/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Raman-8888/daily_html/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Raman-8888/daily_dsa/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -147,6 +148,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Raman-8888/daily_html/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Raman-8888/daily_html/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/Raman-8888/daily_dsa/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/Raman-8888/daily_dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raman-8888/daily_html/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Raman-8888/daily_dsa/tree/main/0198-house-robber/) | Medium |
@@ -176,6 +178,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Raman-8888/daily_html/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Raman-8888/daily_dsa/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Raman-8888/daily_html/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Raman-8888/daily_html/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Raman-8888/daily_html/tree/master/0347-top-k-frequent-elements) |
