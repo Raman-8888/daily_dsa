@@ -66,6 +66,7 @@
 | [0162-find-peak-element](https://github.com/Raman-8888/daily_html/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raman-8888/daily_html/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Raman-8888/daily_html/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Raman-8888/daily_dsa/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/Raman-8888/daily_html/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Raman-8888/daily_html/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Raman-8888/daily_dsa/tree/main/0283-move-zeroes/) | Easy |
@@ -148,6 +149,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Raman-8888/daily_html/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Raman-8888/daily_dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raman-8888/daily_html/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/Raman-8888/daily_dsa/tree/main/0198-house-robber/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Raman-8888/daily_html/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/Raman-8888/daily_dsa/tree/main/0509-fibonacci-number/) | Easy |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Raman-8888/daily_html/tree/master/1402-count-square-submatrices-with-all-ones) |
