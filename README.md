@@ -55,6 +55,7 @@
 | [0046-permutations](https://github.com/Raman-8888/daily_html/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Raman-8888/daily_html/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Raman-8888/daily_dsa/tree/main/0053-maximum-subarray/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Raman-8888/daily_dsa/tree/main/0063-unique-paths-ii/) | Medium |
 | [0066-plus-one](https://github.com/Raman-8888/daily_html/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Raman-8888/daily_html/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Raman-8888/daily_dsa/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -150,6 +151,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Raman-8888/daily_html/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Raman-8888/daily_dsa/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Raman-8888/daily_dsa/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Raman-8888/daily_dsa/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/Raman-8888/daily_dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raman-8888/daily_html/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Raman-8888/daily_dsa/tree/main/0198-house-robber/) | Medium |
@@ -161,6 +163,7 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Raman-8888/daily_html/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Raman-8888/daily_html/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/Raman-8888/daily_dsa/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Raman-8888/daily_html/tree/master/0073-set-matrix-zeroes) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Raman-8888/daily_html/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Raman-8888/daily_html/tree/master/1402-count-square-submatrices-with-all-ones) |
