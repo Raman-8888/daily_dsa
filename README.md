@@ -149,6 +149,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Raman-8888/daily_html/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Raman-8888/daily_html/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Raman-8888/daily_dsa/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/Raman-8888/daily_dsa/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Raman-8888/daily_dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raman-8888/daily_html/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Raman-8888/daily_dsa/tree/main/0198-house-robber/) | Medium |
@@ -234,6 +235,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Raman-8888/daily_html/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Raman-8888/daily_html/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Raman-8888/daily_dsa/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Raman-8888/daily_html/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Raman-8888/daily_html/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Raman-8888/daily_html/tree/master/0069-sqrtx) |
@@ -476,4 +478,8 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Raman-8888/daily_dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Raman-8888/daily_dsa/tree/main/0509-fibonacci-number/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Raman-8888/daily_dsa/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
