@@ -56,6 +56,7 @@
 | [0046-permutations](https://github.com/Raman-8888/daily_html/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Raman-8888/daily_html/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Raman-8888/daily_dsa/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/Raman-8888/daily_dsa/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Raman-8888/daily_dsa/tree/main/0063-unique-paths-ii/) | Medium |
 | [0066-plus-one](https://github.com/Raman-8888/daily_html/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Raman-8888/daily_html/tree/master/0073-set-matrix-zeroes) |
@@ -165,6 +166,7 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Raman-8888/daily_html/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Raman-8888/daily_html/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/Raman-8888/daily_dsa/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Raman-8888/daily_dsa/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Raman-8888/daily_html/tree/master/0073-set-matrix-zeroes) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Raman-8888/daily_html/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -347,6 +349,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Raman-8888/daily_dsa/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/Raman-8888/daily_html/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Raman-8888/daily_html/tree/master/0682-baseball-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Raman-8888/daily_html/tree/master/1823-find-the-winner-of-the-circular-game) |
