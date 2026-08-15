@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Raman-8888/daily_html/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Raman-8888/daily_dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Raman-8888/daily_html/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Raman-8888/daily_html/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Raman-8888/daily_html/tree/master/0141-linked-list-cycle) |
@@ -47,6 +48,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Raman-8888/daily_html/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Raman-8888/daily_dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Raman-8888/daily_html/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Raman-8888/daily_html/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Raman-8888/daily_html/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -232,6 +234,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Raman-8888/daily_dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0135-candy](https://github.com/Raman-8888/daily_dsa/tree/main/0135-candy/) | Hard |
 | [0680-valid-palindrome-ii](https://github.com/Raman-8888/daily_html/tree/master/0680-valid-palindrome-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raman-8888/daily_html/tree/master/1877-minimize-maximum-pair-sum-in-array) |
