@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Raman-8888/daily_html/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Raman-8888/daily_dsa/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Raman-8888/daily_dsa/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Raman-8888/daily_html/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Raman-8888/daily_html/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Raman-8888/daily_html/tree/master/0141-linked-list-cycle) |
@@ -50,6 +51,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Raman-8888/daily_html/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Raman-8888/daily_dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Raman-8888/daily_html/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Raman-8888/daily_dsa/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Raman-8888/daily_html/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Raman-8888/daily_html/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Raman-8888/daily_dsa/tree/main/0035-search-insert-position/) | Easy |
@@ -135,6 +137,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Raman-8888/daily_dsa/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Raman-8888/daily_html/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Raman-8888/daily_html/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Raman-8888/daily_html/tree/master/0217-contains-duplicate) |
