@@ -64,6 +64,7 @@
 | [0063-unique-paths-ii](https://github.com/Raman-8888/daily_dsa/tree/main/0063-unique-paths-ii/) | Medium |
 | [0066-plus-one](https://github.com/Raman-8888/daily_html/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Raman-8888/daily_html/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Raman-8888/daily_dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Raman-8888/daily_dsa/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/Raman-8888/daily_html/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raman-8888/daily_html/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -174,6 +175,7 @@
 | [0054-spiral-matrix](https://github.com/Raman-8888/daily_dsa/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Raman-8888/daily_dsa/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Raman-8888/daily_html/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Raman-8888/daily_dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Raman-8888/daily_html/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Raman-8888/daily_html/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Raman-8888/daily_html/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -325,6 +327,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Raman-8888/daily_html/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Raman-8888/daily_dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Raman-8888/daily_html/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Raman-8888/daily_dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Raman-8888/daily_html/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Raman-8888/daily_html/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raman-8888/daily_html/tree/master/0167-two-sum-ii-input-array-is-sorted) |
