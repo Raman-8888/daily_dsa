@@ -269,6 +269,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Raman-8888/daily_html/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3462-vowels-game-in-a-string](https://github.com/Raman-8888/daily_html/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/Raman-8888/daily_html/tree/master/3830-find-closest-person) |
+| [3871-count-commas-in-range-ii](https://github.com/Raman-8888/daily_dsa/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
