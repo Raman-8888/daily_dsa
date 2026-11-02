@@ -346,6 +346,7 @@
 | [0141-linked-list-cycle](https://github.com/Raman-8888/daily_html/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Raman-8888/daily_dsa/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Raman-8888/daily_html/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Raman-8888/daily_dsa/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Raman-8888/daily_dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Raman-8888/daily_html/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Raman-8888/daily_html/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
