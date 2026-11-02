@@ -11,23 +11,28 @@
 class Solution {
     public ListNode reverseList(ListNode head) {
 
-        ListNode prev=null;
         ListNode curr=head;
-
+        List<Integer>list=new ArrayList<>();
 
         while(curr!=null)
         {
-            ListNode nextnode=curr.next;
-
-            curr.next=prev;
-            prev=curr;
-            curr=nextnode;
-
+            list.add(curr.val);
+            curr=curr.next;
 
         }
-        return prev;
-       
-        
+
+        Collections.reverse(list);
+        ListNode dummy =new ListNode(0);
+        curr=dummy;
+
+        for(int i:list)
+        {
+            curr.next=new ListNode(i);
+            curr=curr.next;
+
+        }
+        return dummy.next;
+
         
     }
 }
