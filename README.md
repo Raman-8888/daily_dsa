@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Raman-8888/daily_dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Raman-8888/daily_dsa/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Raman-8888/daily_html/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Raman-8888/daily_dsa/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/Raman-8888/daily_html/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Raman-8888/daily_html/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/Raman-8888/daily_html/tree/master/0165-compare-version-numbers) |
@@ -57,6 +58,7 @@
 | [0035-search-insert-position](https://github.com/Raman-8888/daily_dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/Raman-8888/daily_html/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Raman-8888/daily_html/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/Raman-8888/daily_dsa/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Raman-8888/daily_html/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Raman-8888/daily_html/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Raman-8888/daily_dsa/tree/main/0053-maximum-subarray/) | Medium |
@@ -158,6 +160,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Raman-8888/daily_html/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Raman-8888/daily_html/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Raman-8888/daily_dsa/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Raman-8888/daily_dsa/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Raman-8888/daily_dsa/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Raman-8888/daily_dsa/tree/main/0063-unique-paths-ii/) | Medium |
@@ -306,6 +309,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Raman-8888/daily_html/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Raman-8888/daily_html/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Raman-8888/daily_dsa/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Raman-8888/daily_dsa/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Raman-8888/daily_dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -403,6 +407,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Raman-8888/daily_dsa/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Raman-8888/daily_dsa/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Raman-8888/daily_html/tree/master/0496-next-greater-element-i) |
 ## Trie
