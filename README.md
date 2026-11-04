@@ -283,6 +283,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Raman-8888/daily_html/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Raman-8888/daily_dsa/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/Raman-8888/daily_html/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Raman-8888/daily_dsa/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Raman-8888/daily_html/tree/master/0234-palindrome-linked-list) |
@@ -347,6 +348,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Raman-8888/daily_html/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Raman-8888/daily_html/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Raman-8888/daily_dsa/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/Raman-8888/daily_html/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/Raman-8888/daily_html/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Raman-8888/daily_dsa/tree/main/0206-reverse-linked-list/) | Easy |
