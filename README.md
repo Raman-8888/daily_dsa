@@ -263,6 +263,7 @@
 | [0367-valid-perfect-square](https://github.com/Raman-8888/daily_html/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Raman-8888/daily_html/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/Raman-8888/daily_dsa/tree/main/0509-fibonacci-number/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Raman-8888/daily_dsa/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Raman-8888/daily_html/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Raman-8888/daily_html/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Raman-8888/daily_html/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -352,6 +353,7 @@
 | [0234-palindrome-linked-list](https://github.com/Raman-8888/daily_html/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Raman-8888/daily_dsa/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Raman-8888/daily_dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Raman-8888/daily_dsa/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Raman-8888/daily_html/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Raman-8888/daily_html/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Sliding Window
